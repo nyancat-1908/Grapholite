@@ -226,4 +226,4 @@ Grapholite is offered as a full free version with all features and updates inclu
 Unlock your creative potential with Grapholite today! Download the complete package and start designing with ease.
 
 ---
-**Last updated:** 2026-10-06 11:43:40 UTC
+**Last updated:** 2026-10-06 17:50:29 UTC
